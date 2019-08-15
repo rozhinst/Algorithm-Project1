@@ -46,8 +46,4 @@ public class Snapp {
             temp = temp.getNextUser();
         }
     }
-
-    public static void sortedAdd(User [] Users, User newUser , int ArraySize){
-    }
-
 }

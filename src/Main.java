@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import static java.util.Arrays.sort;
-
 public class Main {
     static User head = null;
 
@@ -46,11 +44,7 @@ public class Main {
                 case 4:
                     flag = false;
                     break;
-                case 5:
-
-                        break;
-                    }
             }
         }
     }
-
+}
